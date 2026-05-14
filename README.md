@@ -1,9 +1,10 @@
 ## Hi there, I'm Pachipenta Tejeswar Naidu👋
-<img width="900" height="675" alt="banner png" src="https://github.com/user-attachments/assets/c42e8988-f04c-4b30-b3a5-296cc5379163" />
 
 **Computer Science & Engineering Student | Mobile & Web Developer**
 
 I am an aspiring software engineer passionate about building clean, efficient applications. I am currently focused on Android development, database management, and exploring AI/ML frameworks.
+
+<img width="900" height="675" alt="banner png" src="https://github.com/user-attachments/assets/c42e8988-f04c-4b30-b3a5-296cc5379163" />
 
 ### 🚀 What I'm Up To
 * 📱 **Building:** A comprehensive To-Do List Android application.

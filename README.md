@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="600" height="150" alt="banner png" src="https://github.com/user-attachments/assets/c42e8988-f04c-4b30-b3a5-296cc5379163" />
+<img width="900" height="675" alt="banner png" src="https://github.com/user-attachments/assets/c42e8988-f04c-4b30-b3a5-296cc5379163" />
 
 <!--
 **saitejap0007-hub/saitejap0007-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
